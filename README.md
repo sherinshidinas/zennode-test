@@ -1,3 +1,5 @@
+
+
 Steps of the Programs:
 -) Define Product Prices, Discount Rules, and Fees:
     We start by defining the prices of each product, discount rules, and fees such as the gift wrap fee and shipping fee per package. 
